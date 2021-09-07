@@ -16,6 +16,10 @@ The same can be said for sports or other competitive environments, where some ru
 + Sometimes, rules in sports/competitive events can become outdated or hindering. Just like how video games change and rework rules/maps/characters, sports and other competititions should also consider reviewing over rules in a more frequent manner.
 
 
+# <u> Conclusion(s):<u>
+  Over the course of this project, the concept of balance in competitive video games was visited through Rainbow Six Siege. Through EDA, we explored pick rates of different operators, KD ratios of different operators throughout different rank ranges, as well as the WL ratios and saw a positive correlation between receiving kills and wins. Additionally, there were a few operators on Attack and Defense where their pick rates were higher and lower than most, and Win/Loss ratios also higher. This might indicate that there is some imbalance in how they operate compared to the rest. Finally, the heatmaps we produced showed that certain maps had Attackers or Defenders winning most of the time; around 55-60%. These maps will need to be reworked/altered, or completely taken out of the game to keep Rainbow Six Siege perfectly competitive, and as close to balanced as possible. If these changes are implemented, then the game will continue to be one of the most fun and competitive shooters on the market.
+
+
 
 # <u>Libraries Used:</u>
 
@@ -33,3 +37,9 @@ The same can be said for sports or other competitive environments, where some ru
 + mapWinRate.png: Graph illustrating Win Rates on certain maps for certain operators
 + operatorPickRate.png: Illustrates pick rate for certain operators at different skill rankings
 + operatorWinRate.png: Illustrates win rate for certain operators at different skill rankings
+
+# <u> Acknowledgements </u>
++ Ubisoft for releasing these publicly available datasets on their website for users to use/analyze
++ Obi Wan Kenobi for having the high ground
+
+
