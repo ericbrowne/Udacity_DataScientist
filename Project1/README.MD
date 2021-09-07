@@ -19,17 +19,17 @@ The same can be said for sports or other competitive environments, where some ru
 
 # <u>Libraries Used:</u>
 
-Pandas: Used to aggregate, modify dataframes
-Numpy: Aiding Pandas in its data manipulation
-MatplotLib: Visualizations
-Scipy.Stats: For statistical testing of hypothesis tests
-Seaborn: Visualizations
-Sklearn: For Scaling properties in the preprocessing library
-Warnings: to filter out any warnings/exceptions
++ Pandas: Used to aggregate, modify dataframes
++ Numpy: Aiding Pandas in its data manipulation
++ MatplotLib: Visualizations
++ Scipy.Stats: For statistical testing of hypothesis tests
++ Seaborn: Visualizations
++ Sklearn: For Scaling properties in the preprocessing library
++ Warnings: to filter out any warnings/exceptions
 
 # <u>Files In Repository:</u>
-S5_objectives: Rainbow Six Siege Objectives dataset 
-S5_operators: Rainbow Six Siege Operators dataset
-mapWinRate.png: Graph illustrating Win Rates on certain maps for certain operators
-operatorPickRate.png: Illustrates pick rate for certain operators at different skill rankings
-operatorWinRate.png: Illustrates win rate for certain operators at different skill rankings
++ S5_objectives: Rainbow Six Siege Objectives dataset 
++ S5_operators: Rainbow Six Siege Operators dataset
++ mapWinRate.png: Graph illustrating Win Rates on certain maps for certain operators
++ operatorPickRate.png: Illustrates pick rate for certain operators at different skill rankings
++ operatorWinRate.png: Illustrates win rate for certain operators at different skill rankings
